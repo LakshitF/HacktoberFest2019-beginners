@@ -1,7 +1,7 @@
 # :sparkles: Welcome to HacktoberFest 2019 :sparkles:
 
 Good place for your first PR!
-# Follow these steps to make your first pull requestcand get your free Tee XD
+# Follow these steps to make your first pull request and get your free Tee XD
 
 - Fork this repository.
 - Add your name in Contributors.md file.
