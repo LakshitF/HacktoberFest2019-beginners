@@ -2,8 +2,7 @@
 # :sparkles: Welcome to HacktoberFest 2019 :sparkles:
 
 
-* Follow these steps to make your first pull request
-* and get your free tee XD
+# Follow these steps to make your first pull requestcand get your free tee XD
 
 - Fork this repository.
 - Add your name in Contributors.md file.
@@ -12,3 +11,6 @@
 - Congratulations!! You have successfully created your pull request.
 - Check your progress here (https://hacktoberfest.digitalocean.com/profile)
 - Get your tee!
+
+# **Optional**
+- You can also add details about yourself in the profiles folder by creating an additional files! 
