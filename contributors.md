@@ -20,5 +20,5 @@
 
 4. [Anandu Ramachandran](http://github.com/AnanduRamachandran)
  
-5. [Divesh Heeramun] (http://github.com/sleepinzombie)
+7. [Divesh Heeramun](http://github.com/sleepinzombie)
 
