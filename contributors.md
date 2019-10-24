@@ -24,4 +24,5 @@
 6. [Tim Kolenc](http://github.com/tkolenc123)
  
 7. [Divesh Heeramun](http://github.com/sleepinzombie)
+8. [Slon](http://github.com/slonnoga)
 
