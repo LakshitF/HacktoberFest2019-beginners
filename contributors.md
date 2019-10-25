@@ -16,13 +16,12 @@
 1. [Lakshit Farswan](http://github.com/LakshitF)
 2. [Chirag Parekh](http://github.com/chiragparekh)
 3. [Kristina Bautista](http://github.com/KIBautista)
-
 4. [Saumyadeep Harza](https://github.com/saumyadipsss)
-
-
-4. [Anandu Ramachandran](http://github.com/AnanduRamachandran)
+5. [Anandu Ramachandran](http://github.com/AnanduRamachandran)
 6. [Tim Kolenc](http://github.com/tkolenc123)
- 
-7. [Divesh Heeramun](http://github.com/sleepinzombie)
-8. [Divesh Heeramun](http://github.com/mrgaprda)
+7. [Saumyadeep Harza](https://github.com/listek1)
+8. [Divesh Heeramun](http://github.com/sleepinzombie)
+9. [Divesh Heeramun](http://github.com/mrgaprda)
+10. [Alma Prda](http://github.com/almaprda)
+
 
